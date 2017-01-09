@@ -13,6 +13,7 @@ Things to look at:
   * how many active collaborators ?
   * how are support requests/issues handled ?
 * how to write acceptance test (http ?)
+* load test the things
 * how write unit test ?
 * how to deploy from CI ?
 * security ?
