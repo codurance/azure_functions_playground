@@ -1,4 +1,3 @@
 call refreshenv
-func run echo
+(echo.) | func run echo
 curl "http://localhost:7071/api/echo?name=a"
-
