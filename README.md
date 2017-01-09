@@ -3,8 +3,9 @@
 CI: https://ci.appveyor.com/project/cyplo/azure-functions-playground
 
 Useful links for Azure Functions:
-http://gregshackles.com/getting-started-with-azure-functions-and-f/ + https://github.com/gshackles/facemoji
 
+* https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/
+* http://gregshackles.com/getting-started-with-azure-functions-and-f/ + https://github.com/gshackles/facemoji
 
 Things to look at:
 * maturity
