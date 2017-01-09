@@ -1,6 +1,7 @@
-# azure_functions_playground
+# The goal of this is to evaluate Azure Functions.
 
-The goal of this is to evaluate Azure Functions.
+CI: https://ci.appveyor.com/project/cyplo/azure-functions-playground
+
 
 Things to look at:
 * maturity
