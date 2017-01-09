@@ -1,0 +1,2 @@
+install: powershell -NoProfile -ExecutionPolicy Bypass -Command "install.ps1"
+build_script: build.bat
