@@ -1,6 +1,6 @@
 # The goal of this is to evaluate Azure Functions.
 
-CI: https://ci.appveyor.com/project/cyplo/azure-functions-playground
+[![Build status](https://ci.appveyor.com/api/projects/status/wr5k613ggc4132v9/branch/master?svg=true)](https://ci.appveyor.com/project/cyplo/azure-functions-playground/branch/master)
 
 Useful links for Azure Functions:
 
