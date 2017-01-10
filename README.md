@@ -26,7 +26,7 @@ Things to look for:
   * how are support requests/issues handled ?
 
 * how to inject custom library dependencies ? is NuGet the only option ?
-* load test the things
+* load test the things (might be good to familliarize with https://github.com/Azure/azure-functions-performance-test)
 * how to deploy from CI ?
   * seems that Azure offers github integration, with builds done on their end
 * security ?
