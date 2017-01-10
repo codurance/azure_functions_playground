@@ -29,6 +29,7 @@ Things to look for:
 * load test the things
 * how to deploy from CI ?
   * seems that Azure offers github integration, with builds done on their end
+  * I wasn't able to get full deploy to work from the commandline (CLI crashes on creating the function app - maybe raw API call would do?)
 * security ?
   * who can exec ? - probably anyone who can trigger the event
   * who can change ?
