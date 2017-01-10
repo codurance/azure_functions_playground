@@ -26,7 +26,7 @@ Things to look for:
   * how are support requests/issues handled ?
 
 * how to inject custom library dependencies ? is NuGet the only option ?
-* load test the things
+* load test the things (might be good to familliarize with https://github.com/Azure/azure-functions-performance-test)
 * how to deploy from CI ?
   * seems that Azure offers github integration, with builds done on their end
   * I wasn't able to get full deploy to work from the commandline (CLI crashes on creating the function app - maybe raw API call would do?)
