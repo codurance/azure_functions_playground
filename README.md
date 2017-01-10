@@ -15,7 +15,9 @@ I'm focusing on http for tests, as it seems most straightforwad.
 Azure Functions CLI (please see [install.ps1](install.ps1) for the info on how to get it) seems to be the choice for the commandline dev usage (create a project, scaffold a function).
 It can launch a local server as well.
 
-Things to look at:
+* The CLI seems to be quite new. It crashes sometimes. The documentation is very lacking.
+
+Things to look for:
 * maturity
   * is the source available ?
   * how many active collaborators ?
