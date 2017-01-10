@@ -11,7 +11,7 @@ Functions can be triggered on many different kinds of [events](https://docs.micr
 For the acceptance tests all of these types of events seem to be externally triggerable without much effort.
 I'm focusing on http for tests, as it seems most straightforwad.
 
-General feeling: Azure Functions are being developed quite fast resulting in documentation and tools being lacking a bit.
+General feeling: Azure Functions are being developed quite fast resulting in documentation and tools being lacking a bit. There is still the mentality of "person clicking through stuff" instead of automation all the way. This results in the documentation presenting screenshots instead of command lines. Makes things harder to automate, due to lacks in documentation.
 
 ## Developer tools 
 Azure Functions CLI (please see [install.ps1](install.ps1) for the info on how to get it) seems to be the choice for the commandline dev usage (create a project, scaffold a function).
