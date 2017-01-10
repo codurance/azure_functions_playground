@@ -19,6 +19,14 @@ It can launch a local server as well.
 
 * The CLI seems to be quite new. It crashes sometimes. The documentation is very lacking.
 
+## Deployment
+* how to deploy from CI ?
+  * seems that Azure offers github integration, with builds done on their end
+  * I wasn't able to get full deploy to work from the commandline (CLI crashes on creating the function app - maybe raw API call would do?)
+  * seems that deploys via KUDU API are possible: https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/
+
+## Still unsure
+
 Things to look for:
 * maturity
   * is the source available ?
@@ -27,9 +35,7 @@ Things to look for:
 
 * how to inject custom library dependencies ? is NuGet the only option ?
 * load test the things (might be good to familliarize with https://github.com/Azure/azure-functions-performance-test)
-* how to deploy from CI ?
-  * seems that Azure offers github integration, with builds done on their end
-  * I wasn't able to get full deploy to work from the commandline (CLI crashes on creating the function app - maybe raw API call would do?)
+
 * security ?
   * who can exec ? - probably anyone who can trigger the event
   * who can change ?
