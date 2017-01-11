@@ -6,6 +6,7 @@ Useful links for Azure Functions:
 
 * https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/
 * http://gregshackles.com/getting-started-with-azure-functions-and-f/ + https://github.com/gshackles/facemoji
+* https://github.com/Azure/azure-webjobs-sdk-script - this is the engine used to run Azure Functions. It's a layer above WebJobs
 
 Functions can be triggered on many different kinds of [events](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview). 
 For the acceptance tests all of these types of events seem to be externally triggerable without much effort.
