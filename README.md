@@ -24,7 +24,7 @@ It can launch a local server as well.
 ## Deployment
 * how to deploy from CI ?
   * seems that Azure offers github integration, with builds done on their end
-  * I wasn't able to get full deploy to work from the commandline (CLI crashes on creating the function app - maybe raw API call would do?)
+  * I wasn't able to get full deploy to work from the commandline (CLI [crashes](https://github.com/Azure/azure-functions-cli/issues/27) on creating the function app - maybe raw API call would do?)
   * seems that deploys via KUDU API are possible: https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/
 
 ## Still unsure
