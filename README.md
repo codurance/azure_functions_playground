@@ -18,6 +18,7 @@ Azure Functions CLI (please see [install.ps1](install.ps1) for the info on how t
 It can launch a local server as well.
 
 * The CLI seems to be quite new. It crashes sometimes. The documentation is very lacking.
+* The team seems to be quite responsive, sample ionteraction with me: (https://github.com/Azure/azure-functions-cli/issues/25#issuecomment-271651841)
 
 ## Deployment
 * how to deploy from CI ?
