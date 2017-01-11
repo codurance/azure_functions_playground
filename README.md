@@ -20,14 +20,15 @@ Azure Functions CLI (please see [install.ps1](install.ps1) for the info on how t
 It can launch a local server as well.
 
 * The CLI seems to be quite new. It crashes sometimes. The documentation is very lacking.
-* The team seems to be quite responsive, sample ionteraction with me: (https://github.com/Azure/azure-functions-cli/issues/25#issuecomment-271651841)
+* The team seems to be quite responsive [though](https://github.com/Azure/azure-functions-cli/issues/25#issuecomment-271651841)
 
 ## Deployment
 * how to deploy from CI ?
   * seems that Azure offers github integration, with builds done on their end
   * I wasn't able to get full deploy to work from the commandline (CLI [crashes](https://github.com/Azure/azure-functions-cli/issues/27) on creating the function app - maybe raw API call would do?)
   * seems that deploys via KUDU API are possible: https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/
-
+  * It is Windows only for now but it seems Mac support is [coming](https://github.com/Azure/azure-functions-cli/pull/19).
+  
 ## Still unsure
 
 Things to look for:
