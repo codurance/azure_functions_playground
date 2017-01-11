@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/wr5k613ggc4132v9/branch/master?svg=true)](https://ci.appveyor.com/project/cyplo/azure-functions-playground/branch/master)
 
 Useful links for Azure Functions:
-
+* https://github.com/Azure/Azure-Functions - a good starting point, lots of links to other places
 * https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/
 * http://gregshackles.com/getting-started-with-azure-functions-and-f/ + https://github.com/gshackles/facemoji
 * https://github.com/Azure/azure-webjobs-sdk-script - this is the engine used to run Azure Functions. It's a layer above WebJobs
